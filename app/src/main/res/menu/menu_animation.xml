@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu1"
+        android:title="震幅統計" />
+
+    <item
+        android:id="@+id/menu2"
+        android:title="數據分析" />
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home16"
+        android:title="home"
+        app:showAsAction="ifRoom"/>
+</menu>
